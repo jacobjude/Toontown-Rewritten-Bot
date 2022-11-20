@@ -107,6 +107,10 @@ guiFunc() {
 	MyGui.Add("UpDown", "vTrickPositionUpDown Range1-7", 2)
 	TrickPositionUpDownObj := MyGui["TrickPositionUpDown"]
 
+	MyGui.Add("Text", "x20 y210", "version 1.0.3")	
+	MyGui.Add("Link","x20 y230", '<a href="https://github.com/jacobjude/Toontown-Rewritten-Bot/releases/">Get the latest version here</a>')
+
+
 	myGui.OnEvent("Close", myGui_Close)
 	myGui_Close(thisGui) {
 		ExitApp
