@@ -15,7 +15,7 @@ You must have **AutoHotKey version 2.0** or above to use this script.
 Once it's installed, simply download the latest version from [releases](https://github.com/jacobjude/Toontown-Rewritten-Bot/releases) and run it.
 
 ## Configuration
-It is reccommended to set Toontown Rewritten to **windowed* mode.
+It is recommended to set Toontown Rewritten to **windowed* mode.
 
 In the GUI, you must set where the 'Pets' tab appears on your SpeedChat+ menu. For example, if your 'Pets' tab is the third option in your SpeedChat+ menu like in the screenshot below, then you would set "Position of 'Pets' tab:" in the menu to 3.
 
