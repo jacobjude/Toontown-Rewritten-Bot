@@ -17,7 +17,7 @@ Once it's installed, simply download the latest version from [releases](https://
 ## Usage & Configuration
 ### Important: If you're not using background mode, the doodle menu **must** be open for the script to work (i.e. the feed, scratch, & call options must be onscreen). 
 
-It is recommended to set Toontown Rewritten to **windowed** mode.
+It is recommended to set Toontown Rewritten to **windowed**.
 
 In the GUI, you must set where the 'Pets' tab appears on your SpeedChat+ menu. For example, if your 'Pets' tab is the third option in your SpeedChat+ menu like in the screenshot below, then you would set "Position of 'Pets' tab:" in the menu to 3.
 
