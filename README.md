@@ -1,4 +1,4 @@
-# Toontown Rewritten Bot
+# Toontown Rewritten Trainer
 
 This is a script written using AutoHotKey v2.0 that automates tasks within Toontown Rewritten.
 
