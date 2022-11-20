@@ -15,7 +15,7 @@ You must have **AutoHotKey version 2.0** or above to use this script.
 Once it's installed, simply download the latest version from [releases](https://github.com/jacobjude/Toontown-Rewritten-Bot/releases) and run it.
 
 ## Usage & Configuration
-### Important: If you're not using background mode, the doodle menu **must** be open for the script to work (the feed, scratch, & call options must be onscreen). 
+### Important: If you're not using background mode, the doodle menu **must** be open for the script to work (i.e. the feed, scratch, & call options must be onscreen). 
 
 It is recommended to set Toontown Rewritten to **windowed** mode.
 
