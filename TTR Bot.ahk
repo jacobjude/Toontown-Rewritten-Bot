@@ -3,6 +3,7 @@
 #SingleInstance Force
 #WinActivateForce
 SetWorkingDir(A_ScriptDir)
+SetControlDelay(-1)
 DetectHiddenWindows(True)
 CoordMode("Mouse", "Client")
 CoordMode("Pixel", "Client")
@@ -121,9 +122,6 @@ guiFunc() {
 				sleep(100)
 			}
 			WinGetClientPos(,,&width, &height, titleName) 
-			if(((width / height) < (4/3)) and (WinActive(titleName) != 0) and firstRun == false) {
-				MsgBox("Your window's aspect ratio is less than 4:3. Please adjust your screen resolution. Press OK to resume.")
-			}
 
 			firstRun := false
 			if (bgModeToggleObj.Value == 0) {
