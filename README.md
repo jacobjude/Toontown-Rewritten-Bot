@@ -40,3 +40,6 @@ Example:
 **Randomization** is a precautionary measure used to make the player seem more human. For maximum training efficiency, these options can be disabled. Random actions will not occur if randomization is turned off. 
 
 **Automatic Scaling** lets you set your game resolution to any size as long as its aspect ratio is greater than or equal to 4:3. Note: if the aspect ratio is less than 4:3, coordinates will not be scaled properly.
+
+## Future plans
+-Add a fishing bot
